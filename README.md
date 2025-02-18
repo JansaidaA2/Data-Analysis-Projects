@@ -45,9 +45,18 @@ Here’s a quick overview of the projects in this repository:
 8. **IPL (Indian Premier League) Analysis**  
    An exploration of IPL match data to uncover patterns, trends, and team performance over the seasons. Various visualizations were used to represent the performance of teams, players, and match outcomes.
 
-9. **Movie Rating Analysis**  
+9. **IRIS dataset Visualization**
+    A detailed exploration of the Iris dataset, visualizing relationships between different flower species and various attributes such as sepal length, sepal width, petal length, and petal width. The project utilizes data visualization techniques to provide insights into the dataset’s patterns and distributions.
+   
+10. **Movie Rating Analysis**  
    Analyzing movie ratings from various sources, comparing data trends, and investigating factors affecting movie ratings. This project explores multiple datasets and visualizes the insights through interactive graphs.
 
+11. **Raw to clean data conversion using EDA Techinques**
+    This project focuses on transforming raw data into clean, usable datasets. It involves performing exploratory data analysis (EDA) to identify missing values, outliers, and data inconsistencies, followed by applying various techniques for data cleaning and preprocessing. The end goal is to create a clean dataset ready for modeling or analysis.
+
+12. **Titanic Ship Report Analysis**
+    Analyzing the Titanic dataset to explore factors that influenced passenger survival rates. The project involves performing data analysis to understand the relationship between variables such as age, gender, class, and fare on the likelihood of survival. Insights from the analysis can provide valuable lessons on survival patterns during historical events. 
+ 
 ## Technologies Used
 - **Python** (Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn)
 - **Jupyter Notebooks** for interactive analysis
